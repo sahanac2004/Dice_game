@@ -6,7 +6,7 @@ This is a simple web application that simulates rolling two dice.
 How to Play:
 
 Save the Files: Make sure you have the following files saved in the same directory:
-index.html
+dicee.html
 styles.css (if you have any styling)
 index.js
 dice1.png
